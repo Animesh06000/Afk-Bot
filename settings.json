@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "Survival_OP_SMP.aternos.me",
+    "port": 42467,
+    "version": "1.19"
   },
 
   "position": {
